@@ -10,7 +10,7 @@ console.log(`Meu Nome é ${primeiroNome} ${sobrenome}`);
 const nomeCompleto = primeiroNome + sobrenome; 
 console.log(nomeCompleto);
 
-idade = 29 + 1
+idade = 29 + 2
 console.log(`No proximo ano farei, ` + idade + ` anos`)
 
 
